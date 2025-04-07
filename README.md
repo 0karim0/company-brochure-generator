@@ -1,1 +1,1 @@
-# company-brochure-generator
+# company-brochure-generator using llm
